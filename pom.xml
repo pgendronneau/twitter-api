@@ -16,6 +16,8 @@
 		<resource.delimiter>@</resource.delimiter>
 		<jib-maven-plugin.version>3.4.3</jib-maven-plugin.version>
 		<springdoc.version>1.5.9</springdoc.version>
+		<sonar.organization>pgendronneau</sonar.organization>		
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>	
 	</properties>
 	<dependencies>
 		<!-- springdoc ui -->
